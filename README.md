@@ -1,4 +1,4 @@
-# tweets_politicos
+# Tweets da Dilma Rousseff
 
 Repositório com os tweets da Dilma Rousseff e scores de sentimento em formato .Rda. Estes dados foram usados nos seguintes posts:
 
